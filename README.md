@@ -38,6 +38,18 @@ This is a web based application developed for Earth related website
 
 ![image](https://user-images.githubusercontent.com/118883263/203583541-8fcd1fc8-e983-4eb6-8b46-63ca40e46657.png)
 
+![image](https://user-images.githubusercontent.com/118883263/204191963-0a5ffb12-b71b-405a-9caf-6bc85bbd6227.png)
+
+![image](https://user-images.githubusercontent.com/118883263/204191992-abbe07cc-cb61-4d0f-b23a-a51385d84755.png)
+
+![image](https://user-images.githubusercontent.com/118883263/204192038-c4356b42-0b51-40d5-8433-c9f1764f61fb.png)
+
+![image](https://user-images.githubusercontent.com/118883263/204192052-90effaf4-2f13-4d1f-9e91-e9bb1f18a278.png)
+
+
+
+
+
 
 ## Primary Azure Technology used-
 1. Microsoft Azure portal
