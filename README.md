@@ -52,9 +52,9 @@ This is a web based application developed for Earth related website
 
 
 ## Primary Azure Technology used-
-1. Microsoft Azure portal
+1. Networking
 
-![image](https://user-images.githubusercontent.com/118883263/203583746-22734073-df03-46d5-b1e0-0da6cce0a08c.png)
+![Screenshot (90)](https://user-images.githubusercontent.com/118883263/209458526-9776809c-20c6-4601-8f05-effc093212b5.png)
 
 2. App Service and Web app
 
